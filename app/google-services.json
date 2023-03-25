@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448261159695",
+    "project_id": "paneles-f54aa",
+    "storage_bucket": "paneles-f54aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448261159695:android:ac4f77a6c54a655c611c7a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448261159695-t4vm1cpt9ovesli8def359p8t0lklk7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "4c357266f01b0aa11e568190d739884d98117bd5"
+          }
+        },
+        {
+          "client_id": "448261159695-g2143gm2j12squn69uq93ondebhi60ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDht0_1Sx361hesJpYHQ148eFyTBkmhUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448261159695-g2143gm2j12squn69uq93ondebhi60ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
